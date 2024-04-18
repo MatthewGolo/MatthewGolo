@@ -1,8 +1,6 @@
-<p align=”center”>
-<img width=”200" height=”200" src=”[https://user-images.blahblah/75753187/123358567-aac7b900-d539-11eb-8275-0b380264bb4c.png](https://drive.google.com/drive/u/0/folders/1tb9qAgIVZOrK9bxm3plDJiR157a5n7s2)" alt=”my banner”>
-</p>
-<h1 align="center">Hi 👋, I'm Charles Matthew Golo</h1>
-<h3 align="center">A passionate frontend developer from Philippines</h3>
+
+<!-- <h1 align="center">Hi 👋, I'm Charles Matthew Golo</h1> -->
+<h3 align="center">Graduating Student in Bachelor's Degree of Science in Information Technoloy</h3>
 <img align="center" alt="Coding" width="400" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matthewgolo&label=Profile%20views&color=0e75b6&style=flat" alt="matthewgolo" /> </p>

@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=matthewgolo" alt="matthewgolo" /></a> </p>
 
-- 🔭 I’m currently working on Software Development **OEHR Management System** as an Intern at National Commission of Indigenous People - ICT
+- 🔭 I’m currently working on Software Development of **OEHR Management System** as an Intern at National Commission of Indigenous People - ICT
 
 - 🌱 I’m currently enhancing my knowledge with **React, Laravel**
 
